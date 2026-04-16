@@ -12,7 +12,7 @@
 # print(jai.Salary,jai.language)
 
 # Aman =Employee()
-# Aman.name="Aman " # This is an object attribute or instance attribute
+# Aman.name="Aman " #------- This is an object attribute or instance attribute
 # print(Aman.name,Aman.language,Aman.Salary)
 
 # Here name is object attribute and salary and language are class attributes as they directly belong to the class

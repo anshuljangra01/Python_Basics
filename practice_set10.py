@@ -1,6 +1,7 @@
 import math
 # import random
 from random import randint
+
 #1. Create a class "Programmer " for storing information of few programmers working at Microsoft.
 class Programmer: 
     name ="Name"

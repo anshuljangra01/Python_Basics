@@ -52,9 +52,17 @@ class Manager(Programmer):
     c=3
 
 o=Employee()
+print(o.a)
+
+o=Programmer()
+print(o.a,o.b)
+
+o=Manager()
+print(o.a,o.b,o.c)
 b=Manager()
 print(b.a)
-print(o.a)    
+print(o.a) 
+
 
 # Supper Key Word in Inheritance 
 # -------------- super() keyWord -------------------
