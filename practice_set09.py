@@ -1,5 +1,5 @@
 import random
-import shutil
+import shutil  
 # 1. Write a program to read the text from a given file 'poems.txt' and find out whether it contains the word 'Twinkle'. 
 
 # with open ("file.txt") as f:
